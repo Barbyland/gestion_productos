@@ -45,7 +45,7 @@ A continuación se muestra una imagen del sistema funcionando en consola:
 ![Menú inicial](https://github.com/Barbyland/gestion_productos/blob/main/menu_inicial.PNG?raw=true)
 
 **2- Agregar productos:** se muestra el ingreso de un producto con su nombre, categoría y precio (sin centavos):  
-![Agregar producto](https://github.com/Barbyland/gestion_productos/blob/main/Agregar_productos.PNGraw=true)
+![Agregar producto](https://github.com/Barbyland/gestion_productos/blob/main/Agregar_productos.PNG?raw=true)
 
 **3- Buscar productos:** se visualiza la lista completa y ordenada:  
 ![Buscar producto](https://github.com/Barbyland/gestion_productos/blob/main/Mostrar_productos.PNG?raw=true)
